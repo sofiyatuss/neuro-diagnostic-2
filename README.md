@@ -1,0 +1,1 @@
+NeuroNook V3.1 — differential board, evidence log, clinical reasoning rubric and Why Not This Diagnosis? debrief. Replace the index.html at your GitHub Pages repository root. Educational simulation only. Progress remains local to the same site and browser.
